@@ -1,2 +1,4 @@
 # Wine
-Wine_ML
+Wine_ML Classification
+
+Machine Leraning model to classify between red and white wines based on its caracharacteristics from the dataset.
